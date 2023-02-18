@@ -11133,7 +11133,7 @@ body
   max-width:100%;
   overflow-x: hidden;
 }
-@media (min-width : 768px) and (max-width : 1300px) 
+@media (min-width : 480px) and (max-width : 576px) 
 { 
   
   .navbar-toggler {
@@ -11400,4 +11400,810 @@ body
     margin:20px;
   }
 }
+/*# sourceMappingURL=bootstrap.css.map */
+@media (min-width : 577px) and (max-width : 768px) 
+{ 
+  
+  .navbar-toggler {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  padding: 0.5rem 0.75rem;
+}
+.navbar-toggler .navbar-toggler-icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+  .iron
+  {
+    position: absolute;
+    width:100%;
+    height:50%;
+  }
+  img 
+  {
+    width:100px;
+  }
+  
+  .company 
+  {
+    position: absolute;
+    padding-left:2%;
+    padding-bottom: 2%;
+    top:30%;
+    right:45%;
+    color:white;
+    font-size:2rem;
+    font-weight:700;
+  }
+  .motto 
+  { padding-left: 2%;
+    position:absolute;
+    top:50%;
+    right:20%;
+    color:white;
+    font-size:20px;
+    display:inline;
+    font-weight:500;
+  }
+  .process 
+  {
+    position: absolute;
+    top:100%;
+    width:100%;
+  }
+  .pro 
+  {
+    position: absolute;
+    left:10%;
+    top:-10%;
+    padding-bottom:2%;
+  }
+  .card-deck 
+  {
+    position:absolute;
+    top:70%;
+  }
+  .card 
+  {
+    max-width:50%;
+  }
+  .african
+  {
+    width:100%;
+    height:200px;
+   
+  }
+  .boyagent
+  {
+    width:100%;
+    height:200px;
+  }
+  .washed 
+  {
+    width:100%;
+    height:200px;
+  }
+  .license 
+  {
+    position:absolute;
+    top:300%;
+    width:100%;
+  }
+  .review 
+  {
+    width:100%;
+    height: 1200px;
+  }
+  .toprate 
+  {
+    position:absolute;
+    top:10%;
+    left:10%;
+    color:white;
+    padding-bottom:3%''
+    font-size:1.5rem;
+    font-weight: 700;
+    padding-bottom: 5%;
+  }
+  .hassle 
+  { padding-top: 3%;
+    position:absolute;
+    top:40%;
+    left:2%;
+    color:white;
+    margin:0;
+    text-align: justify;
+    font-size:1.25rem;
+    font-weight:500;
+  }
+  .verified
+  {
+   visibility: hidden;
+   }
+   span
+   {
+    margin: 30px;
+   }
+  .verinfo
+  {
+   visibility:hidden;
+  }
+  .vermob 
+  { 
+    visibility:visible;
+    position: absolute;
+    top:85%;
+    right:30%;
+    font-size:15px;
+    color:white;
+  }
+  li
+  { 
+    margin:15px;
+    min-width:300px;
+  }
+  .washprice
+  {
+    width:100%;
+    margin:0;
+    position:absolute;
+    top:500%;
+    text-align:justify;
+  }
+  .washprice .card
+{
+ display:flex;
+ width:800px;
+ 
+}
+.washprice ul
+{
+  position:relative;
+  right:20%;
+}
+.googlemaps
+{
+  width:100%;
+  height:500px;
+  margin:0;
+  position:absolute;
+  top:700%;
+  text-align:center;
+}
+.googlemaps h2 
+{
+  position:absolute;
+  right:40%;
+  top:10%;
+  font-size: 40px;
+}
+.world 
+{
+  position:absolute;
+  text-align: justify;
+  top :30%;
+  font-size: small;
+}
+.aboutus 
+{
+  width:100%;
+  height:1600px;
+  margin:0;
+  position:absolute;
+  top:800%;
+  text-align:center;
+  background-color: #d3d3d3 ;
+  text-align:center;
+}
+.aboutus h1
+{
+  position:absolute;
+  top:10%;
+}
+.found
+{
+  margin:10px;
+  position:absolute;
+  top:20%;
+  font-size:15px;
+}
+.mission
+{
+  margin:10px;
+  position:absolute;
+  top:40%;
+  font-size:15px;
+}
+.lastly
+{
+  margin:10px;
+  position:absolute;
+  top:60%;
+  font-size:15px;
+}
+.blore
+{
+  width:300px;
+  position:absolute;
+  top:50%;
+  right:30%;
+}
+.googlemaps .container 
+{ display:flex;
+  flex-wrap: wrap;
+ position:absolute;
+ top :130%;
+ right:25%;
+ font-size:0.5rem; 
+ color:white;
+}
+.googlemaps p
+{
+  flex:1;
+  margin:10px;
+}
+.least
+{
+  position:absolute;
+  top:1050%;
+  right:15%;
+}
+.least img
+{
+ width:250px;
+}
+.least small
+{
+  font-size:small;
+}
+  .navbar-toggler {
+    border-color: black;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='black' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+  p{
+    margin:20px;
+  }
+}
+@media (min-width : 769px) and (max-width : 1000px) 
+{ 
+  
+  .navbar-toggler {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  padding: 0.5rem 0.75rem;
+}
+.navbar-toggler .navbar-toggler-icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+  .iron
+  {
+    position: absolute;
+    width:100%;
+    height:50%;
+  }
+  img 
+  {
+    width:100px;
+  }
+  
+  .company 
+  {
+    position: absolute;
+    padding-left:2%;
+    padding-bottom: 2%;
+    top:30%;
+    right:45%;
+    color:white;
+    font-size:2rem;
+    font-weight:700;
+  }
+  .motto 
+  { padding-left: 2%;
+    position:absolute;
+    top:50%;
+    right:20%;
+    color:white;
+    font-size:20px;
+    display:inline;
+    font-weight:500;
+  }
+  .process 
+  {
+    position: absolute;
+    top:100%;
+    width:100%;
+  }
+  .pro 
+  {
+    position: absolute;
+    left:10%;
+    top:-10%;
+    padding-bottom:2%;
+  }
+  .card-deck 
+  {
+    position:absolute;
+    top:70%;
+  }
+  .card 
+  {
+    max-width:50%;
+  }
+  .african
+  {
+    width:100%;
+    height:200px;
+   
+  }
+  .boyagent
+  {
+    width:100%;
+    height:200px;
+  }
+  .washed 
+  {
+    width:100%;
+    height:200px;
+  }
+  .license 
+  {
+    position:absolute;
+    top:300%;
+    width:100%;
+  }
+  .review 
+  {
+    width:100%;
+    height: 1200px;
+  }
+  .toprate 
+  {
+    position:absolute;
+    top:10%;
+    left:10%;
+    color:white;
+    padding-bottom:3%''
+    font-size:1.5rem;
+    font-weight: 700;
+    padding-bottom: 5%;
+  }
+  .hassle 
+  { padding-top: 3%;
+    position:absolute;
+    top:40%;
+    left:2%;
+    color:white;
+    margin:0;
+    text-align: justify;
+    font-size:1.25rem;
+    font-weight:500;
+  }
+  .verified
+  {
+   visibility: hidden;
+   }
+   span
+   {
+    margin: 30px;
+   }
+  .verinfo
+  {
+   visibility:hidden;
+  }
+  .vermob 
+  { 
+    visibility:visible;
+    position: absolute;
+    top:85%;
+    right:30%;
+    font-size:15px;
+    color:white;
+  }
+  li
+  { 
+    margin:15px;
+    min-width:300px;
+  }
+  .washprice
+  {
+    width:100%;
+    margin:0;
+    position:absolute;
+    top:500%;
+    text-align:justify;
+  }
+  .washprice .card
+{
+ display:flex;
+ width:800px;
+ 
+}
+.washprice ul
+{
+  position:relative;
+  right:20%;
+}
+.googlemaps
+{
+  width:100%;
+  height:500px;
+  margin:0;
+  position:absolute;
+  top:700%;
+  text-align:center;
+}
+.googlemaps h2 
+{
+  position:absolute;
+  right:40%;
+  top:10%;
+  font-size: 40px;
+}
+.world 
+{
+  position:absolute;
+  text-align: justify;
+  top :30%;
+  font-size: small;
+}
+.aboutus 
+{
+  width:100%;
+  height:1600px;
+  margin:0;
+  position:absolute;
+  top:800%;
+  text-align:center;
+  background-color: #d3d3d3 ;
+  text-align:center;
+}
+.aboutus h1
+{
+  position:absolute;
+  top:10%;
+}
+.found
+{
+  margin:10px;
+  position:absolute;
+  top:20%;
+  font-size:15px;
+}
+.mission
+{
+  margin:10px;
+  position:absolute;
+  top:40%;
+  font-size:15px;
+}
+.lastly
+{
+  margin:10px;
+  position:absolute;
+  top:60%;
+  font-size:15px;
+}
+.blore
+{
+  width:300px;
+  position:absolute;
+  top:50%;
+  right:30%;
+}
+.googlemaps .container 
+{ display:flex;
+  flex-wrap: wrap;
+ position:absolute;
+ top :130%;
+ right:25%;
+ font-size:0.5rem; 
+ color:white;
+}
+.googlemaps p
+{
+  flex:1;
+  margin:10px;
+}
+.least
+{
+  position:absolute;
+  top:1050%;
+  right:15%;
+}
+.least img
+{
+ width:250px;
+}
+.least small
+{
+  font-size:small;
+}
+  .navbar-toggler {
+    border-color: black;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='black' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+  p{
+    margin:20px;
+  }
+}
+@media (min-width : 1001px) and (max-width : 1200px) 
+{ 
+  
+  .navbar-toggler {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  padding: 0.5rem 0.75rem;
+}
+.navbar-toggler .navbar-toggler-icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+  .iron
+  {
+    position: absolute;
+    width:100%;
+    height:50%;
+  }
+  img 
+  {
+    width:100px;
+  }
+  
+  .company 
+  {
+    position: absolute;
+    padding-left:2%;
+    padding-bottom: 2%;
+    top:30%;
+    right:45%;
+    color:white;
+    font-size:2rem;
+    font-weight:700;
+  }
+  .motto 
+  { padding-left: 2%;
+    position:absolute;
+    top:50%;
+    right:20%;
+    color:white;
+    font-size:20px;
+    display:inline;
+    font-weight:500;
+  }
+  .process 
+  {
+    position: absolute;
+    top:100%;
+    width:100%;
+  }
+  .pro 
+  {
+    position: absolute;
+    left:10%;
+    top:-10%;
+    padding-bottom:2%;
+  }
+  .card-deck 
+  {
+    position:absolute;
+    top:70%;
+  }
+  .card 
+  {
+    max-width:50%;
+  }
+  .african
+  {
+    width:100%;
+    height:200px;
+   
+  }
+  .boyagent
+  {
+    width:100%;
+    height:200px;
+  }
+  .washed 
+  {
+    width:100%;
+    height:200px;
+  }
+  .license 
+  {
+    position:absolute;
+    top:300%;
+    width:100%;
+  }
+  .review 
+  {
+    width:100%;
+    height: 1200px;
+  }
+  .toprate 
+  {
+    position:absolute;
+    top:10%;
+    left:10%;
+    color:white;
+    padding-bottom:3%''
+    font-size:1.5rem;
+    font-weight: 700;
+    padding-bottom: 5%;
+  }
+  .hassle 
+  { padding-top: 3%;
+    position:absolute;
+    top:40%;
+    left:2%;
+    color:white;
+    margin:0;
+    text-align: justify;
+    font-size:1.25rem;
+    font-weight:500;
+  }
+  .verified
+  {
+   visibility: hidden;
+   }
+   span
+   {
+    margin: 30px;
+   }
+  .verinfo
+  {
+   visibility:hidden;
+  }
+  .vermob 
+  { 
+    visibility:visible;
+    position: absolute;
+    top:85%;
+    right:30%;
+    font-size:15px;
+    color:white;
+  }
+  li
+  { 
+    margin:15px;
+    min-width:300px;
+  }
+  .washprice
+  {
+    width:100%;
+    margin:0;
+    position:absolute;
+    top:500%;
+    text-align:justify;
+  }
+  .washprice .card
+{
+ display:flex;
+ width:800px;
+ 
+}
+.washprice ul
+{
+  position:relative;
+  right:20%;
+}
+.googlemaps
+{
+  width:100%;
+  height:500px;
+  margin:0;
+  position:absolute;
+  top:700%;
+  text-align:center;
+}
+.googlemaps h2 
+{
+  position:absolute;
+  right:40%;
+  top:10%;
+  font-size: 40px;
+}
+.world 
+{
+  position:absolute;
+  text-align: justify;
+  top :30%;
+  font-size: small;
+}
+.aboutus 
+{
+  width:100%;
+  height:1600px;
+  margin:0;
+  position:absolute;
+  top:800%;
+  text-align:center;
+  background-color: #d3d3d3 ;
+  text-align:center;
+}
+.aboutus h1
+{
+  position:absolute;
+  top:10%;
+}
+.found
+{
+  margin:10px;
+  position:absolute;
+  top:20%;
+  font-size:15px;
+}
+.mission
+{
+  margin:10px;
+  position:absolute;
+  top:40%;
+  font-size:15px;
+}
+.lastly
+{
+  margin:10px;
+  position:absolute;
+  top:60%;
+  font-size:15px;
+}
+.blore
+{
+  width:300px;
+  position:absolute;
+  top:50%;
+  right:30%;
+}
+.googlemaps .container 
+{ display:flex;
+  flex-wrap: wrap;
+ position:absolute;
+ top :130%;
+ right:25%;
+ font-size:0.5rem; 
+ color:white;
+}
+.googlemaps p
+{
+  flex:1;
+  margin:10px;
+}
+.least
+{
+  position:absolute;
+  top:1050%;
+  right:15%;
+}
+.least img
+{
+ width:250px;
+}
+.least small
+{
+  font-size:small;
+}
+  .navbar-toggler {
+    border-color: black;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='black' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+  p{
+    margin:20px;
+  }
+}
+/*# sourceMappingURL=bootstrap.css.map */
+
+/*# sourceMappingURL=bootstrap.css.map */
+
 /*# sourceMappingURL=bootstrap.css.map */
