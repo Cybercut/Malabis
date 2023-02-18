@@ -11135,6 +11135,11 @@ body
 }
 @media (min-width : 320px) and (max-width : 575px) 
 { 
+  body 
+{
+  max-width:100%;
+  overflow-x: hidden;
+}
   
   .navbar-toggler {
   border: none;
@@ -11402,6 +11407,11 @@ body
 }
 @media (min-width : 576px) and (max-width : 768px) 
 { 
+  body 
+{
+  max-width:100%;
+  overflow-x: hidden;
+}
   
   .navbar-toggler {
   border: none;
@@ -11669,6 +11679,11 @@ body
 }
 @media (min-width : 769px) and (max-width : 991px) 
 {
+  body 
+{
+  max-width:100%;
+  overflow-x: hidden;
+}
   
   .navbar-toggler {
   border: none;
@@ -11944,6 +11959,11 @@ body
 }
 @media (min-width : 992px) and (max-width : 1200px) 
 {
+  body 
+{
+  max-width:100%;
+  overflow-x: hidden;
+}
   
   .navbar-toggler {
   border: none;
