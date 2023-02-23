@@ -11133,7 +11133,7 @@ body
   max-width:100%;
   overflow-x: hidden;
 }
-@media (min-width : 320px) and (max-width : 768px) 
+@media screen and (max-width : 768px) 
 { 
   
   .navbar-toggler {
@@ -11401,7 +11401,7 @@ body
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
-@media (min-width : 769px) and (max-width : 992px) 
+@media screen and (max-width : 992px) 
 { 
   
   .navbar-toggler {
@@ -11668,7 +11668,7 @@ body
     margin:20px;
   }
 }
-@media (min-width : 993px) and (max-width : 1100px) 
+@media screen and (max-width : 1100px) 
 { 
   
   .navbar-toggler {
@@ -11935,7 +11935,7 @@ body
     margin:20px;
   }
 }
-@media (min-width : 1101px) and (max-width : 1200px) 
+@media screen and (max-width : 1200px) 
 { 
   
   .navbar-toggler {
